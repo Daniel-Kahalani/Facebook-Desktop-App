@@ -1,6 +1,6 @@
 ﻿# Facebook Desktop App
 
-Facebook Desktop App is desktop application I develop using WinForms with C# and facebook Graph API implementing various design patterns.
+Facebook Desktop App is a desktop application I develop using WinForms with C# and facebook Graph API implementing various design patterns.
 The app show to the user his gerenal information, and new features: 
 * Find the user best friends.
 * Calendar that synchronized with all user birthdays and events.
