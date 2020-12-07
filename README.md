@@ -5,10 +5,6 @@ The app show to the user his gerenal information, and new features:
 * Find the user best friends.
 * Calendar that synchronized with all user birthdays and events.
 
-Custom Facebook feed desktop application created using Facebook API with C# and WinForms while implementing various design patterns.
-
-Super Duper Market (SDM) is a web platform that I develop for store-owners to upload their stores and get all the infomation of the orders that was orderd from their stores, and for customers to order groceries for lowest cost by ordering each product from the store that sale it for the lowest price. 
-
 ## Screenshots
 
 ![Login Page](Screenshots/login.png)
